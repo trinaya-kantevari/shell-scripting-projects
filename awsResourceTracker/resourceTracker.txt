@@ -1,0 +1,14 @@
+2024-04-13 10:09:33 trinaya-bucket1
+"i-01cf18b5718d5da1b"
+"i-09813e2458316d60e"
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "bob",
+            "UserId": "AIDAU4WKF7W5HMYBCYPCI",
+            "Arn": "arn:aws:iam::336505208250:user/bob",
+            "CreateDate": "2024-04-13T10:20:36+00:00"
+        }
+    ]
+}
